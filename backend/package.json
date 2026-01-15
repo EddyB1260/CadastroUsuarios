@@ -16,6 +16,9 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
-    "prisma": "^6.18.0"
+    "prisma": "^6.18.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   }
 }
