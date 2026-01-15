@@ -9,13 +9,17 @@ Este projeto foi desenvolvido com foco em simplicidade e organização, servindo
 - Cadastro de novos usuários
 - Listagem de usuários existentes
 - Validação básica de dados
-- Integração com banco de dados (ex: MySQL, MongoDB ou outro que você configurou)
+- Integração com banco de dados MongoDB
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 - JavaScript (Node.js)
-- Banco de dados: [especificar aqui, ex: MySQL/MongoDB/PostgreSQL]
-- [Outras dependências, ex: Express, Sequelize, Mongoose]
+- Banco de dados:MySQL
+- Prisma
+- Express
+- cors
+- dotenv
+- React
 
 ---
